@@ -1,5 +1,11 @@
 # 🏆 Sports Management System
 
+## How to Run
+
+1. Make sure Python is installed on your computer
+2. Double-click `start.bat`  
+   OR run in terminal: `python app.py`
+3. Open browser → go to: **http://127.0.0.1:5000**
 ## Project Structure
 
 ```
